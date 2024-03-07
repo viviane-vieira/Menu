@@ -105,7 +105,7 @@ var MENU = {
             "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg",
             "name": "Gott's Roadside",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 99
+            "price": 39
         },
         {
             "id": "le-big-matt-kit-for-6",
